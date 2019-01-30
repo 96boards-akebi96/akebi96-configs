@@ -2,10 +2,11 @@
 
 ## What is this?
 
-This is an independent repository of linux configurations for Akebi96 board.
+This is an independent repository of linux and u-boot configurations
+for Akebi96 board.
 Akebi96 board consists of UniPhier LD20 SoC and some on-board chips. These
 configurations enables required drivers and options. Also there is a config
-file which provides some additional options for AOSP kernel.
+file which provides some additional options for AOSP kernel and bootloader.
 
 ## How can I use this?
 
