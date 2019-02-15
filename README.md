@@ -35,3 +35,4 @@ For AOSP, you have to merge it with [Android Kernel Configs](https://android.goo
    ${AKEBI96}/linux/akebi96-aosp-vendor.config
 ```
 
+In addition, you can enable development features by linux/akebi96-development.config.
