@@ -36,3 +36,9 @@ For AOSP, you have to merge it with [Android Kernel Configs](https://android.goo
 ```
 
 In addition, you can enable development features by linux/akebi96-development.config.
+
+## License
+
+Everything in this repository is distributed under GNU General Public License version 2.0, as same as Linux and U-Boot. See COPYING for details.
+
+Copyright 2019 Linaro Ltd.
